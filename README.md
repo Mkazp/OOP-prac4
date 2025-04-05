@@ -21,7 +21,7 @@ npm install -g pnpm
 
 Запуск проекта
 ```bash
-pnpm dev
+pnpm vite
 ```
 
 Запуск встроеных тестов
