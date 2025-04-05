@@ -13,15 +13,21 @@ git clone https://your-repository-url.git
 
 cd название_проекта
 pnpm install
-
+```
 ##Если нет pnpm
+```bash
 npm install -g pnpm
+```
 
 Запуск проекта
+```bash
 pnpm dev
+```
 
 Запуск встроеных тестов
+```bash
 pnpm test
+```
 
 Тесты
 Тестируются следующие сценарии:
