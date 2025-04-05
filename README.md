@@ -14,7 +14,7 @@ git clone https://your-repository-url.git
 cd название_проекта
 pnpm install
 ```
-##Если нет pnpm
+## Если нет pnpm
 ```bash
 npm install -g pnpm
 ```
